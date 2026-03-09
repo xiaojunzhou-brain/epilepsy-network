@@ -1,4 +1,18 @@
-.idea
-data
-*.DS_store
-*pycache*
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# IDE
+.idea/
+.vscode/
+
+# Data
+data/
+
+# Logs
+*.log
+*.tmp
