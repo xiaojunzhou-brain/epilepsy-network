@@ -1,0 +1,11 @@
+# mouse connect
+alpha: 1
+beta: 1
+run_dt: 0.05
+#run_t: 30000
+run_t: 10000
+start: 150
+T_window: 100
+sampling_rate: 1500
+tau_max: 150
+EZ: 'hippocampal formation'

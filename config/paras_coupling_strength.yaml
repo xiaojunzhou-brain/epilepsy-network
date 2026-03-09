@@ -1,0 +1,19 @@
+# coupling strength
+#netType: ['random', 'small_world', 'scale_free']
+#netType: ['random']
+#netType: ['small_world']
+netType: ['scale_free']
+
+n: 200
+run_dt: 0.05
+run_t: 10000
+k_min: 0.2
+k_max: 10
+dk: 0.2
+n_SLE: 40
+start: 150
+T_window: 100
+sampling_rate: 1500
+tau_max: 150
+times: 10
+single_times: 4

@@ -1,0 +1,14 @@
+# mouse control
+alpha: 1
+beta: 1
+dk_min: 0
+dk_max: 2
+ddk: 0.05
+run_dt: 0.05
+run_t: 10000
+start: 150
+T_window: 100
+sampling_rate: 1500
+tau_max: 150
+times: 10
+single_times: 4

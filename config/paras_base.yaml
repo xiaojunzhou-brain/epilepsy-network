@@ -1,0 +1,13 @@
+# base
+#netType: ['random', 'small_world', 'scale_free']
+netType: ['scale_free']
+
+n: 200
+n_SLE: 40
+run_dt: 0.05
+run_t: 10000
+#run_t: 30000
+start: 150
+T_window: 100
+sampling_rate: 1500
+tau_max: 150

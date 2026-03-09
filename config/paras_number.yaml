@@ -1,0 +1,17 @@
+# number
+netType: ['random', 'small_world', 'scale_free']
+#netType: ['random']
+#netType: ['small_world']
+#netType: ['scale_free']
+n: 200
+nSLE_min: 2
+nSLE_max: 100
+dnSLE: 2
+run_dt: 0.05
+run_t: 10000
+start: 150
+T_window: 100
+sampling_rate: 1500
+tau_max: 150
+times: 10
+single_times: 6

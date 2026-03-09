@@ -1,0 +1,19 @@
+# randon number
+n_SLE: [20, 40, 60, 80]
+#n_SLE: [20]
+#n_SLE: [40]
+#n_SLE: [60]
+#n_SLE: [80]
+
+n: 200
+run_dt: 0.05
+run_t: 10000
+k_min: 0.2
+k_max: 10
+dk: 0.2
+start: 150
+T_window: 100
+sampling_rate: 1500
+tau_max: 150
+times: 10
+single_times: 4

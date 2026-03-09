@@ -1,0 +1,20 @@
+# scale-free distribution
+n: 200
+n_SLE: 40
+SLE_dist: [0,25,50,75,100]
+#SLE_dist: [0]
+#SLE_dist: [25]
+#SLE_dist: [50]
+#SLE_dist: [75]
+#SLE_dist: [100]
+run_dt: 0.05
+run_t: 10000
+start: 150
+T_window: 100
+sampling_rate: 1500
+tau_max: 150
+k_min: 0.2
+k_max: 10
+dk: 0.2
+times: 10
+single_times: 4
